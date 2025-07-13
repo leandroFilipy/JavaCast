@@ -13,6 +13,8 @@ Daniel
 
 José
 
+Hugo Deleon Geminiani de Souza Paim
+
 🗣️ Tópicos abordados
 🧠 Introdução à linguagem Java
 
